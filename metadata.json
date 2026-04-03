@@ -1,0 +1,5 @@
+{
+  "name": "ResistAI India: Antibiotic Resistance Predictor",
+  "description": "An advanced microbiology platform localized for India, using AI to predict antibiotic resistance patterns (NDM-1, OXA-48), visualize gene networks, and suggest treatment strategies based on ICMR guidelines.",
+  "requestFramePermissions": []
+}
